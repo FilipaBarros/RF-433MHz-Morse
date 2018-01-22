@@ -4,4 +4,5 @@
 ![Transmitter schematics](https://raw.githubusercontent.com/FilipaBarros/RF-433MHz-Morse/master/docs/Receiver.png)
 ## Dependencies
 This project makes use of the library [RadioHead](https://github.com/PaulStoffregen/RadioHead) for establishing communication between a transmitter and receiver module of 433MHz communication <br />
+<br />
 Autoras: Filipa Barros e Paula Graça
